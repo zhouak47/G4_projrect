@@ -1,0 +1,7 @@
+Target: Image Generation
+
+Object: China(A kind of pot)
+
+First Step:
+DataSet
+Introduction of paper
